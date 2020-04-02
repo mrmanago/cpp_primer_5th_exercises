@@ -4,10 +4,15 @@
 
 int main() 
 {
-    Sales_item item, sum;
-    while (std::cin >> item) {
-        sum += item;
-    }
-    std::cout << sum << std::endl;
-    return 0;
+	Sales_item sum, item;
+	while (std::cin >> item) {
+		if (sum.isbn() == item.isbn()) {
+			sum += item;
+		}
+		else {
+			sum = item;
+		}
+	}
+	std::cout << sum << std::endl;
+	return 0;
 }
