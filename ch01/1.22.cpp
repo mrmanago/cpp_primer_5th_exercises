@@ -10,6 +10,7 @@ int main()
 			sum += item;
 		}
 		else {
+			std::cout << sum << std::endl;
 			sum = item;
 		}
 	}
