@@ -9,7 +9,7 @@ int main()
 	int count = 1;
 	while (std::cin >> item) {
 		if (currItem.isbn() == item.isbn()) {
-			count++;
+		++count;
 		}
 		else {
 			std::cout << currItem.isbn() << " " << count << std::endl;

@@ -8,3 +8,6 @@ int main()
 	std::cout << i << " " << ri << std::endl;
 	return 0;
 }
+
+// Output:
+// 10 10

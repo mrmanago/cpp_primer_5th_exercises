@@ -3,27 +3,27 @@
 ## Contents
 * [Chapter 1. Getting Started](https://github.com/mrmanago/cpp_primer_5th_exercises#chapter-1-getting-started)
 * Part I: The Basics
- * [Chapter 2. Variables and Basic Types](https://github.com/mrmanago/cpp_primer_5th_exercises#chapter-2-variable-variable-and-basic-types)
- * [Chapter 3. Strings, Vectors, and Arrays](https://github.com/mrmanago/cpp_primer_5th_exercises#chapter-3-strings-vectors-and-arrays)
- * [Chapter 4. Expressions](https://github.com/mrmanago/cpp_primer_5th_exercises#chapter-4-expressions)
- * [Chapter 5. Statements](https://github.com/mrmanago/cpp_primer_5th_exercises#chapter-5-statements)
- * [Chapter 6. Functions](https://github.com/mrmanago/cpp_primer_5th_exercises#chapter-6-functions)
- * [Chapter 7. Classes](https://github.com/mrmanago/cpp_primer_5th_exercises#chapter-7-classes)
- * [Chapter 8. The IO Library](https://github.com/mrmanago/cpp_primer_5th_exercises#chapter-8-the-io-library)
+  * [Chapter 2. Variables and Basic Types](https://github.com/mrmanago/cpp_primer_5th_exercises#chapter-2-variable-variable-and-basic-types)
+  * [Chapter 3. Strings, Vectors, and Arrays](https://github.com/mrmanago/cpp_primer_5th_exercises#chapter-3-strings-vectors-and-arrays)
+  * [Chapter 4. Expressions](https://github.com/mrmanago/cpp_primer_5th_exercises#chapter-4-expressions)
+  * [Chapter 5. Statements](https://github.com/mrmanago/cpp_primer_5th_exercises#chapter-5-statements)
+  * [Chapter 6. Functions](https://github.com/mrmanago/cpp_primer_5th_exercises#chapter-6-functions)
+  * [Chapter 7. Classes](https://github.com/mrmanago/cpp_primer_5th_exercises#chapter-7-classes)
+  * [Chapter 8. The IO Library](https://github.com/mrmanago/cpp_primer_5th_exercises#chapter-8-the-io-library)
 * Part II:The C++ Library
- * [Chapter 9. Sequential Containers](https://github.com/mrmanago/cpp_primer_5th_exercises#chapter-9-sequential-containers)
- * [Chapter 10. Generic Algorithms](https://github.com/mrmanago/cpp_primer_5th_exercises#chapter-10-generic-algorithms)
- * [Chapter 11. Associative Containers](https://github.com/mrmanago/cpp_primer_5th_exercises#chapter-11-associative-containers)
- * [Chapter 12. Dynamic Memory](https://github.com/mrmanago/cpp_primer_5th_exercises#chapter-12-dynamic-memory)
+  * [Chapter 9. Sequential Containers](https://github.com/mrmanago/cpp_primer_5th_exercises#chapter-9-sequential-containers)
+  * [Chapter 10. Generic Algorithms](https://github.com/mrmanago/cpp_primer_5th_exercises#chapter-10-generic-algorithms)
+  * [Chapter 11. Associative Containers](https://github.com/mrmanago/cpp_primer_5th_exercises#chapter-11-associative-containers)
+  * [Chapter 12. Dynamic Memory](https://github.com/mrmanago/cpp_primer_5th_exercises#chapter-12-dynamic-memory)
 * Part III: Tools for Class Authors
- * [Chapter 13. Copy Control](https://github.com/mrmanago/cpp_primer_5th_exercises#chapter-13-copy-control)
- * [Chapter 14. Overloaded Operations and Conversions](https://github.com/mrmanago/cpp_primer_5th_exercises#chapter-14-overloaded-operations-and-conversions)
- * [Chapter 15. Object-Oriented Programming](https://github.com/mrmanago/cpp_primer_5th_exercises#chapter-15-object-oriented-programming)
- * [Chapter 16. Templates and Generic Programming](https://github.com/mrmanago/cpp_primer_5th_exercises#chapter-16-templates-and-generic-programming)
+  * [Chapter 13. Copy Control](https://github.com/mrmanago/cpp_primer_5th_exercises#chapter-13-copy-control)
+  * [Chapter 14. Overloaded Operations and Conversions](https://github.com/mrmanago/cpp_primer_5th_exercises#chapter-14-overloaded-operations-and-conversions)
+  * [Chapter 15. Object-Oriented Programming](https://github.com/mrmanago/cpp_primer_5th_exercises#chapter-15-object-oriented-programming)
+  * [Chapter 16. Templates and Generic Programming](https://github.com/mrmanago/cpp_primer_5th_exercises#chapter-16-templates-and-generic-programming)
 * Part IV: Advanced Topics
- * [Chapter 17. Specialized Library Facilities](https://github.com/mrmanago/cpp_primer_5th_exercises#chapter-17-specialized-library-facilities)
- * [Chapter 18. Tools for Large Programs](https://github.com/mrmanago/cpp_primer_5th_exercises#chapter-18-tools-for-large-programs)
- * [Chapter 19. Specialized Tools and Techniques](https://github.com/mrmanago/cpp_primer_5th_exercises#chapter-19-specialized-tools-and-techniques)
+  * [Chapter 17. Specialized Library Facilities](https://github.com/mrmanago/cpp_primer_5th_exercises#chapter-17-specialized-library-facilities)
+  * [Chapter 18. Tools for Large Programs](https://github.com/mrmanago/cpp_primer_5th_exercises#chapter-18-tools-for-large-programs)
+  * [Chapter 19. Specialized Tools and Techniques](https://github.com/mrmanago/cpp_primer_5th_exercises#chapter-19-specialized-tools-and-techniques)
 
 ---
 
@@ -39,38 +39,38 @@
 ## Chapter 2. [Variables and Basic Types](./ch02)
  1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10
 --:|--:|--:|--:|--:|--:|--:|--:|--:|--:
-[1]()|[2]()|[3]()|[4]()|[5]()|[6]()|[7]()|[8]()|[9]()|[10]()|
-[11]()|[12]()|[13]()|[14]()|[15]()|[16]()|[17]()|[18]()|[19]()|[20]()|
-[21]()|[22]()|[23]()|[24]()|[25]()|[26]()|[27]()|[28]()|[29]()|[30]()|
-[31]()|[32]()|[33]()|[34]()|[35]()|[36]()|[37]()|[38]()|[39]()|[40]()|
-[41]()|[42]()|
+[1](./ch02/2.01.md)|[2](./ch02/2.02.md)|[3](./ch02/2.03.md)|[4](./ch02/2.04.cpp)|[5](./ch02/2.05.md)|[6](./ch02/2.06.md)|[7](./ch02/2.07.md)|[8](./ch02/2.08.cpp)|[9](./ch02/2.09.md)|[10](./ch02/2.10.md)|
+[11](./ch02/2.11.md)|[12](./ch02/2.12.md)|[13](./ch02/2.13.md)|[14](./ch02/2.14.cpp)|[15](./ch02/2.15.md)|[16](./ch02/2.16.md)|[17](./ch02/2.17.cpp)|[18](./ch02/2.18.cpp)|[19](./ch02/2.19.md)|[20](./ch02/2.20.cpp)|
+[21](./ch02/2.21.md)|[22](./ch02/2.22.md)|[23](./ch02/2.23.md)|[24](./ch02/2.24.md)|[25](./ch02/2.25.md)|[26](./ch02/2.26.md)|[27](./ch02/2.27.md)|[28](./ch02/2.28.md)|[29](./ch02/2.29.md)|[30](./ch02/2.30.md)|
+[31](./ch02/2.31.md)|[32](./ch02/2.32.md)|[33](./ch02/2.33.md)|[34](./ch02/2.34.cpp)|[35](./ch02/2.35.cpp)|[36](./ch02/2.36.cpp)|[37](./ch02/2.37.cpp)|[38](./ch02/2.38.md)|[39](./ch02/2.39.cpp)|[40](./ch02/2.40.cpp)|
+[41](./ch02/2.41.cpp)|[42](./ch02/2.42.cpp)|
 
-
+<!--
 ## Chapter 3. [Strings, Vectors, and Arrays](./ch03)
  1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10
 --:|--:|--:|--:|--:|--:|--:|--:|--:|--:
-[1]()|[2]()|[3]()|[4]()|[5]()|[6]()|[7]()|[8]()|[9]()|[10]()|
-[11]()|[12]()|[13]()|[14]()|[15]()|[16]()|[17]()|[18]()|[19]()|[20]()|
-[21]()|[22]()|[23]()|[24]()|[25]()|[26]()|[27]()|[28]()|[29]()|[30]()|
-[31]()|[32]()|[33]()|[34]()|[35]()|[36]()|[37]()|[38]()|[39]()|[40]()|
-[41]()|[42]()|[43]()|[44]()|[45]()|
+[1](./ch03/)|[2](./ch03/)|[3](./ch03/)|[4](./ch03/)|[5](./ch03/)|[6](./ch03/)|[7](./ch03/)|[8](./ch03/)|[9](./ch03/)|[10](./ch03/)|
+[11](./ch03/)|[12](./ch03/)|[13](./ch03/)|[14](./ch03/)|[15](./ch03/)|[16](./ch03/)|[17](./ch03/)|[18](./ch03/)|[19](./ch03/)|[20](./ch03/)|
+[21](./ch03/)|[22](./ch03/)|[23](./ch03/)|[24](./ch03/)|[25](./ch03/)|[26](./ch03/)|[27](./ch03/)|[28](./ch03/)|[29](./ch03/)|[30](./ch03/)|
+[31](./ch03/)|[32](./ch03/)|[33](./ch03/)|[34](./ch03/)|[35](./ch03/)|[36](./ch03/)|[37](./ch03/)|[38](./ch03/)|[39](./ch03/)|[40](./ch03/)|
+[41](./ch03/)|[42](./ch03/)|[43](./ch03/)|[44](./ch03/)|[45](./ch03/)|
 
 
 ## Chapter 4. [Expressions](./ch04)
  1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10
 --:|--:|--:|--:|--:|--:|--:|--:|--:|--:
-[1]()|[2]()|[3]()|[4]()|[5]()|[6]()|[7]()|[8]()|[9]()|[10]()|
-[11]()|[12]()|[13]()|[14]()|[15]()|[16]()|[17]()|[18]()|[19]()|[20]()|
-[21]()|[22]()|[23]()|[24]()|[25]()|[26]()|[27]()|[28]()|[29]()|[30]()|
-[31]()|[32]()|[33]()|[34]()|[35]()|[36]()|[37]()|[38]()|
+[1](./ch04/)|[2](./ch04/)|[3](./ch04/)|[4](./ch04/)|[5](./ch04/)|[6](./ch04/)|[7](./ch04/)|[8](./ch04/)|[9](./ch04/)|[10](./ch04/)|
+[11](./ch04/)|[12](./ch04/)|[13](./ch04/)|[14](./ch04/)|[15](./ch04/)|[16](./ch04/)|[17](./ch04/)|[18](./ch04/)|[19](./ch04/)|[20](./ch04/)|
+[21](./ch04/)|[22](./ch04/)|[23](./ch04/)|[24](./ch04/)|[25](./ch04/)|[26](./ch04/)|[27](./ch04/)|[28](./ch04/)|[29](./ch04/)|[30](./ch04/)|
+[31](./ch04/)|[32](./ch04/)|[33](./ch04/)|[34](./ch04/)|[35](./ch04/)|[36](./ch04/)|[37](./ch04/)|[38](./ch04/)|
 
 
 ## Chapter 5. [Statements](./ch05)
  1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10
 --:|--:|--:|--:|--:|--:|--:|--:|--:|--:
-[1]()|[2]()|[3]()|[4]()|[5]()|[6]()|[7]()|[8]()|[9]()|[10]()|
-[11]()|[12]()|[13]()|[14]()|[15]()|[16]()|[17]()|[18]()|[19]()|[20]()|
-[21]()|[22]()|[23]()|[24]()|[25]()|
+[1](./ch05/)|[2](./ch05/)|[3](./ch05/)|[4](./ch05/)|[5](./ch05/)|[6](./ch05/)|[7](./ch05/)|[8](./ch05/)|[9](./ch05/)|[10](./ch05/)|
+[11](./ch05/)|[12](./ch05/)|[13](./ch05/)|[14](./ch05/)|[15](./ch05/)|[16](./ch05/)|[17](./ch05/)|[18](./ch05/)|[19](./ch05/)|[20](./ch05/)|
+[21](./ch05/)|[22](./ch05/)|[23](./ch05/)|[24](./ch05/)|[25](./ch05/)|
 
 
 ## Chapter 6. [Functions](./ch06)
@@ -208,3 +208,4 @@
 [1]()|[2]()|[3]()|[4]()|[5]()|[6]()|[7]()|[8]()|[9]()|[10]()|
 [11]()|[12]()|[13]()|[14]()|[15]()|[16]()|[17]()|[18]()|[19]()|[20]()|
 [21]()|[22]()|[23]()|[24]()|[25]()|[26]()|
+-->

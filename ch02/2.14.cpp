@@ -8,3 +8,6 @@ int main()
 	std::cout << i << " " << sum << std::endl;
 	return 0;
 }
+
+// Values printed:
+// 100 45

@@ -9,7 +9,7 @@ int main()
 	ip = &v2;
 	std::cout << *ip << " " << v1 << " " << v2 << std::endl;
 
-	v2 = 5;
+	*ip = 5;
 	std::cout << *ip << " " << v1 << " " << v2 << std::endl;
 
 	return 0;
