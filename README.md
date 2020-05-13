@@ -3,7 +3,7 @@
 ## Contents
 * [Chapter 1. Getting Started](https://github.com/mrmanago/cpp_primer_5th_exercises#chapter-1-getting-started)
 * Part I: The Basics
-  * [Chapter 2. Variables and Basic Types](https://github.com/mrmanago/cpp_primer_5th_exercises#chapter-2-variable-variable-and-basic-types)
+  * [Chapter 2. Variables and Basic Types](https://github.com/mrmanago/cpp_primer_5th_exercises#chapter-2-variables-and-basic-types)
   * [Chapter 3. Strings, Vectors, and Arrays](https://github.com/mrmanago/cpp_primer_5th_exercises#chapter-3-strings-vectors-and-arrays)
   * [Chapter 4. Expressions](https://github.com/mrmanago/cpp_primer_5th_exercises#chapter-4-expressions)
   * [Chapter 5. Statements](https://github.com/mrmanago/cpp_primer_5th_exercises#chapter-5-statements)
@@ -45,17 +45,17 @@
 [31](./ch02/2.31.md)|[32](./ch02/2.32.md)|[33](./ch02/2.33.md)|[34](./ch02/2.34.cpp)|[35](./ch02/2.35.cpp)|[36](./ch02/2.36.cpp)|[37](./ch02/2.37.cpp)|[38](./ch02/2.38.md)|[39](./ch02/2.39.cpp)|[40](./ch02/2.40.cpp)|
 [41](./ch02/2.41.cpp)|[42](./ch02/2.42.cpp)|
 
-<!--
+
 ## Chapter 3. [Strings, Vectors, and Arrays](./ch03)
  1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10
 --:|--:|--:|--:|--:|--:|--:|--:|--:|--:
-[1](./ch03/)|[2](./ch03/)|[3](./ch03/)|[4](./ch03/)|[5](./ch03/)|[6](./ch03/)|[7](./ch03/)|[8](./ch03/)|[9](./ch03/)|[10](./ch03/)|
-[11](./ch03/)|[12](./ch03/)|[13](./ch03/)|[14](./ch03/)|[15](./ch03/)|[16](./ch03/)|[17](./ch03/)|[18](./ch03/)|[19](./ch03/)|[20](./ch03/)|
-[21](./ch03/)|[22](./ch03/)|[23](./ch03/)|[24](./ch03/)|[25](./ch03/)|[26](./ch03/)|[27](./ch03/)|[28](./ch03/)|[29](./ch03/)|[30](./ch03/)|
-[31](./ch03/)|[32](./ch03/)|[33](./ch03/)|[34](./ch03/)|[35](./ch03/)|[36](./ch03/)|[37](./ch03/)|[38](./ch03/)|[39](./ch03/)|[40](./ch03/)|
-[41](./ch03/)|[42](./ch03/)|[43](./ch03/)|[44](./ch03/)|[45](./ch03/)|
+[1](./ch03/3.01.cpp)|[2](./ch03/3.02.cpp)|[3](./ch03/3.03.cpp)|[4](./ch03/3.04.cpp)|[5](./ch03/3.05.cpp)|[6](./ch03/3.06.cpp)|[7](./ch03/3.07.cpp)|[8](./ch03/3.08.cpp)|[9](./ch03/3.09.cpp)|[10](./ch03/3.10.cpp)|
+[11](./ch03/3.11.cpp)|[12](./ch03/3.12.cpp)|[13](./ch03/3.13.cpp)|[14](./ch03/3.14.cpp)|[15](./ch03/3.15.cpp)|[16](./ch03/3.16.cpp)|[17](./ch03/3.17.cpp)|[18](./ch03/3.18.cpp)|[19](./ch03/3.19.cpp)|[20](./ch03/3.20.cpp)|
+[21](./ch03/3.21.cpp)|[22](./ch03/3.22.cpp)|[23](./ch03/3.23.cpp)|[24](./ch03/3.24.cpp)|[25](./ch03/3.25.cpp)|[26](./ch03/3.26.md)|[27](./ch03/3.27.md)|[28](./ch03/3.28.cpp)|[29](./ch03/3.29.md)|[30](./ch03/3.30.cpp)|
+[31](./ch03/3.31.cpp)|[32](./ch03/3.32.cpp)|[33](./ch03/3.33.md)|[34](./ch03/3.34.cpp)|[35](./ch03/3.35.cpp)|[36](./ch03/3.36.cpp)|[37](./ch03/3.37.md)|[38](./ch03/3.38.md)|[39](./ch03/3.39.cpp)|[40](./ch03/3.40.cpp)|
+[41](./ch03/3.41.cpp)|[42](./ch03/3.42.cpp)|[43](./ch03/3.43.cpp)|[44](./ch03/3.44.cpp)|[45](./ch03/3.45.cpp)|
 
-
+<!--
 ## Chapter 4. [Expressions](./ch04)
  1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10
 --:|--:|--:|--:|--:|--:|--:|--:|--:|--:

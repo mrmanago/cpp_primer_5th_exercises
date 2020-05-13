@@ -5,24 +5,26 @@ using std::cin;
 using std::cout;
 using std::endl;
 
+// `using namespace std`
+
 int main()
 {
-	//rewritten 1.9
+	// Rewritten 1.9
 	int sum = 0, i = 50;
 	while (i <= 100) {
 		sum += i;
-		i++;
+		++i;
 	}
 	cout << sum << endl;
 
-	//rewritten 1.10
+	// Rewritten 1.10
 	int cnt = 10;
 	while (cnt >= 0) {
 		cout << cnt << endl;
-		cnt--;
+		--cnt;
 	}
 
-	//rewritten 1.11
+	// Rewritten 1.11
 	cout << "Please enter 2 integers" << endl;
 	int v1 = 0, v2 = 0;
 	cin >> v1 >> v2;
@@ -31,13 +33,13 @@ int main()
 	if (v1 >= v2) {
 		while (n <= distance) {
 			cout << v2 + n << endl;
-			n++;
+			++n;
 		}
 	}
 	else {
 		while (n <= distance) {
 			cout << v1 + n << endl;
-			n++;
+			++n;
 		}
 	}
 

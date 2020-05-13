@@ -28,7 +28,7 @@ void autoX(string str) {
 }
 
 void charX(string str) {
-	for (char c : str) {
+	for (char &c : str) {
 		c = 'X';
 	}
 	cout << str << endl;

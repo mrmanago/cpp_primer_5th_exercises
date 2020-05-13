@@ -1,6 +1,4 @@
-// Prediction: a char and not a char& will not change the string.
-
-#include <iostream>
+include <iostream>
 #include <string>
 
 using std::cin;

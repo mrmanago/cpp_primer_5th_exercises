@@ -8,8 +8,6 @@ using std::endl;
 using std::string;
 using std::vector;
 
-void printVector(vector<int>);
-
 int main()
 {
 	int element;

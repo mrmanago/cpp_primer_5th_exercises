@@ -12,7 +12,7 @@ void combineWithSpace();
 int main()
 {
 	combine();
-	//combineWithSpace();
+	combineWithSpace();
 
 	return 0;
 }

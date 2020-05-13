@@ -1,12 +1,9 @@
 #include <iostream>
 #include <string>
-#include <vector>
-#include <cstddef>
 
 using std::cin;
 using std::cout;
 using std::endl;
-using std::string;
 
 int main()
 {
