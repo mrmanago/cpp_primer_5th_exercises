@@ -13,7 +13,7 @@ int main()
 	
 	finalgrade = (grade > 90) ? "high pass" : (grade >= 60 && grade <= 75) ? "60-75" : (grade < 60) ? "fail" : "pass";
 
-	// I prefer this one even though it's longer but it is more readable.
+	// I prefer this one. Even though it's longer it is more readable.
 	if (grade > 90) {
 		finalgrade = "highpass";
 	}
@@ -31,4 +31,3 @@ int main()
 
 	return 0;
 }
-
