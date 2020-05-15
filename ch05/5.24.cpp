@@ -1,13 +1,9 @@
 #include <iostream>
-#include <vector>
-#include <string>
 #include <stdexcept>
 
 using std::cout;
 using std::cin;
 using std::endl;
-using std::vector;
-using std::string;
 using std::runtime_error;
 
 int main()

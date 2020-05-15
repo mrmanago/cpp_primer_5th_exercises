@@ -12,3 +12,6 @@ int main()
 
     return 0;
 }
+
+// > Explain whether this rewrite improves or diminishes the readability of this code.
+// I does in my opinion, I'd rather use a block instead of the comma operator.

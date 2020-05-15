@@ -11,10 +11,6 @@ int main()
     bool repeat = false;
     cin >> preWord;
     while (cin >> currWord) {
-        if (islower(currWord[0])) {
-            currWord = preWord;
-            continue;
-        }
         if (currWord == preWord) {
             cout << currWord << " occurs at least twice.\n";
             repeat = true;
