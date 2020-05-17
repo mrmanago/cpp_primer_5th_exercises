@@ -9,8 +9,8 @@
   * [Chapter 5. Statements](https://github.com/mrmanago/cpp_primer_5th_exercises#chapter-5-statements)
   * [Chapter 6. Functions](https://github.com/mrmanago/cpp_primer_5th_exercises#chapter-6-functions)
   * [Chapter 7. Classes](https://github.com/mrmanago/cpp_primer_5th_exercises#chapter-7-classes)
-  * [Chapter 8. The IO Library](https://github.com/mrmanago/cpp_primer_5th_exercises#chapter-8-the-io-library)
 * Part II:The C++ Library
+  * [Chapter 8. The IO Library](https://github.com/mrmanago/cpp_primer_5th_exercises#chapter-8-the-io-library)
   * [Chapter 9. Sequential Containers](https://github.com/mrmanago/cpp_primer_5th_exercises#chapter-9-sequential-containers)
   * [Chapter 10. Generic Algorithms](https://github.com/mrmanago/cpp_primer_5th_exercises#chapter-10-generic-algorithms)
   * [Chapter 11. Associative Containers](https://github.com/mrmanago/cpp_primer_5th_exercises#chapter-11-associative-containers)
@@ -83,18 +83,18 @@
 [41](./ch06/6.41.md)|[42](./ch06/6.42.cpp)|[43](./ch06/6.43.md)|[44](./ch06/6.44.cpp)|[45](./ch06/6.45.md)|[46](./ch06/6.46.md)|[47](./ch06/6.47.cpp)|[48](./ch06/6.48.md)|[49](./ch06/6.49.md)|[50](./ch06/6.50.md)|
 [51](./ch06/6.51.cpp)|[52](./ch06/6.52.md)|[53](./ch06/6.53.md)|[54](./ch06/6.54.cpp)|[55](./ch06/6.55.cpp)|[56](./ch06/6.56.md)|
 
-<!--
+
 ## Chapter 7. [Classes](./ch07)
  1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10
 --:|--:|--:|--:|--:|--:|--:|--:|--:|--:
-[1](./ch07/)|[2](./ch07/)|[3](./ch07/)|[4](./ch07/)|[5](./ch07/)|[6](./ch07/)|[7](./ch07/)|[8](./ch07/)|[9](./ch07/)|[10](./ch07/)|
+[1](./ch07/7.01.cpp)|[2](./ch07/7.02.cpp)|[3](./ch07/7.03.cpp)|[4](./ch07/7.04.cpp)|[5](./ch07/7.05.cpp)|[6](./ch07/)|[7](./ch07/)|[8](./ch07/)|[9](./ch07/)|[10](./ch07/)|
 [11](./ch07/)|[12](./ch07/)|[13](./ch07/)|[14](./ch07/)|[15](./ch07/)|[16](./ch07/)|[17](./ch07/)|[18](./ch07/)|[19](./ch07/)|[20](./ch07/)|
 [21](./ch07/)|[22](./ch07/)|[23](./ch07/)|[24](./ch07/)|[25](./ch07/)|[26](./ch07/)|[27](./ch07/)|[28](./ch07/)|[29](./ch07/)|[30](./ch07/)|
 [31](./ch07/)|[32](./ch07/)|[33](./ch07/)|[34](./ch07/)|[35](./ch07/)|[36](./ch07/)|[37](./ch07/)|[38](./ch07/)|[39](./ch07/)|[40](./ch07/)|
 [41](./ch07/)|[42](./ch07/)|[43](./ch07/)|[44](./ch07/)|[45](./ch07/)|[46](./ch07/)|[47](./ch07/)|[48](./ch07/)|[49](./ch07/)|[50](./ch07/)|
 [51](./ch07/)|[52](./ch07/)|[53](./ch07/)|[54](./ch07/)|[55](./ch07/)|[56](./ch07/)|[57](./ch07/)|[58](./ch07/)|
 
-
+<!--
 ## Chapter 8. [The IO Library](./ch08)
  1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10
 --:|--:|--:|--:|--:|--:|--:|--:|--:|--:
